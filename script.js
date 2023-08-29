@@ -1,4 +1,4 @@
-const API_KEY = "EmoPemBQV10r17jtMxs2owvAdL_wXdFcQEbM7p41lUI";
+const API_KEY = "YOUR_API_KEY";
 
 const formElement = document.querySelector("form");
 const inputElement = document.querySelector("#search-input");
