@@ -41,14 +41,6 @@ To get started with the Image Search Website, follow these steps:
 
 4. Click on any image to view it in full size.
 
-## Contributing
-
-Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request. Please follow our [contributing guidelines](CONTRIBUTING.md) when making contributions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to the [Unsplash API](https://unsplash.com/developers) for providing the amazing image resources used in this project.
