@@ -24,7 +24,7 @@ To get started with the Image Search Website, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/image-search-website.git
+   git clone https://github.com/Jeevan2305/image-search-website.git
    ```
 
 2. Open the project folder in your code editor.
